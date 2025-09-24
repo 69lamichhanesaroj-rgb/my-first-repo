@@ -1,0 +1,3 @@
+class exercise
+Saroj Lamichhane
+24-09-2025
